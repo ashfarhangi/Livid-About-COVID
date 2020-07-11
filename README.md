@@ -1,3 +1,6 @@
+# Changes:
+Added a notebook for running the code
+
 [![DOI](https://zenodo.org/badge/248896172.svg)](https://zenodo.org/badge/latestdoi/248896172)
 
 # Livid About COVID
